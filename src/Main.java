@@ -3,5 +3,6 @@ public class Main {
 
         System.out.println("Hello world!");
         System.out.println("working on git hub remotly");
+        System.out.println("making changes in the clone version downloaded from the github");
     }
 }
